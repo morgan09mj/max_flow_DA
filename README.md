@@ -40,4 +40,14 @@ It has several answers and you only need to print one of these answers.
 ![q2](https://github.com/morgan09mj/max_flow_DA/assets/119484000/e0f3cf06-fc1e-4cab-b4ff-e32d78da7590)
 
 
-## 
+## Question 3)
+We have already seen and solved the problem of finding the maximum flow 1 by considering the capacity for the edges of the network. In real problems, nodes usually have the same capacity. For example, at the intersection of Habestagi Street, whether there is a hazard light or not, the intersection itself has a capacity that may be less than the capacity of the entrance streets to the intersection and cause traffic. Also, in computer networks, to connect to the Internet and send or receive data on its platform, our data passes through a series of nodes called routers and the links between them. The figure below is a small picture of the path through which the data passes.
+We know that each of the nodes, switches/routers that are on the path can pass a certain maximum amount of data per second. Also, the links or edges between the switch/router also have specific capacity or bandwidth. (The maximum bit that can be passed per second is known from it) In this question, you are given the characteristics of the network (in the form of a directed graph) where the edges and nodes each have their own weight, which actually represents the most data bits. are able to pass it in a unit of time. You must write a program that calculates the maximum flow between two nodes for each node in the network. Note that the capacity of the source and destination nodes should also be considered.
+Entrance :
+The first line specifies the number of nodes v and the number of edges e, respectively. Then e the next line of ridges
+It specifies the origin node, destination node and capacity. In the next line, the capacity v nodes are separated by a distance. Finally, the origin and destination nodes are specified in the last line.
+Output:
+It is a number that indicates the maximum capacity between the source and destination nodes
+
+![q3_1](https://github.com/morgan09mj/max_flow_DA/assets/119484000/704ea358-8a7d-48a2-8e3b-0ce89cfd008f)  ![q3_2](https://github.com/morgan09mj/max_flow_DA/assets/119484000/b78ee12f-e60e-474a-8a84-7f6e70a6f829)
+
