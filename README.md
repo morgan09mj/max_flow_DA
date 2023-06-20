@@ -1,4 +1,4 @@
-# max_flow_DA
+### max_flow_DA
 max_flow
 ## Question 1)
 The traffic police has decided to install speed cameras on the roads due to the increase in the number of accidents
@@ -16,21 +16,5 @@ Continue until the expression 1- is not reached, each line represents a graph ed
 Output:
 In the output of the program, there are paths (edges) in which the camera should be installed, each in one line
 They must be printed separately.
+![q1](https://github.com/morgan09mj/max_flow_DA/assets/119484000/47d8fd3e-eb36-4817-a237-ede243170ec5)
 
-Example 1:
-input:
-5
-0
-4
-0 2 5
-0 3 3
-2 3 3
-2 1 3
-2 4 3
-3 1 5
-1 4 4
-2 4 3
--1
-output:
-1 - 4
-2 - 4
