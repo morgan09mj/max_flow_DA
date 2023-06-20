@@ -16,5 +16,6 @@ Continue until the expression 1- is not reached, each line represents a graph ed
 Output:
 In the output of the program, there are paths (edges) in which the camera should be installed, each in one line
 They must be printed separately.
+
 ![q1](https://github.com/morgan09mj/max_flow_DA/assets/119484000/47d8fd3e-eb36-4817-a237-ede243170ec5)
 
