@@ -1,5 +1,5 @@
-### max_flow_DA
-max_flow
+### max_flow
+
 ## Question 1)
 The traffic police has decided to install speed cameras on the roads due to the increase in the number of accidents
 slow According to the high statistics of the Tehran-Mashhad route, this route has been prioritized. Police in
@@ -49,5 +49,5 @@ It specifies the origin node, destination node and capacity. In the next line, t
 Output:
 It is a number that indicates the maximum capacity between the source and destination nodes
 
-![q3_1](https://github.com/morgan09mj/max_flow_DA/assets/119484000/704ea358-8a7d-48a2-8e3b-0ce89cfd008f)  ![q3_2](https://github.com/morgan09mj/max_flow_DA/assets/119484000/b78ee12f-e60e-474a-8a84-7f6e70a6f829)
+![q3_1](https://github.com/morgan09mj/max_flow_DA/assets/119484000/704ea358-8a7d-48a2-8e3b-0ce89cfd008f)                 ![q3_2](https://github.com/morgan09mj/max_flow_DA/assets/119484000/b78ee12f-e60e-474a-8a84-7f6e70a6f829)
 
